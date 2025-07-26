@@ -18,14 +18,15 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project. It consis
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone 
+
 
 cd backend
 npm install
 
-cd frontend
+cd mini-blog
 npm install
-npm start
+
+Run App Now
 
 
